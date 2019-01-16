@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Uszko</string>
+    <string name="message_hint">Type your message&#8230;</string>
+    <string name="press_microphone">Press microphone icon and say your message! Your message will appear below (you can edit it later).</string>
+    <string name="speech_prompt">Say your message&#8230;</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+
+    <string name="quickResponse1">Hello, I\'m deaf, could you repeat it to my phone?</string>
+    <string name="quickResponse2">Thank you</string>
+    <string name="quickResponse3">Goodbye</string>
+</resources>

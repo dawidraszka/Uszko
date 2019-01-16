@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F45C0C</color>
+    <color name="colorPrimaryDark">#F45C0C</color>
+    <color name="colorBackground">#F0CF6B</color>
+    <color name="colorReceiverMessage">#62C4C0</color>
+    <color name="colorSenderMessage">#BE4875</color>
+    <color name="colorAccent">#A6206A</color>
+    <color name="colorAccentShadow">#7ea6206a</color>
+    <color name="colorAccent2">#62C4C0</color>
+    <color name="textColor">#ffffff</color>
+    <color name="shadow">#7e000000</color>
+    <color name="transparent">#00000000</color>
+</resources>
